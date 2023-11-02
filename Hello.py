@@ -28,7 +28,7 @@ def run():
 
     st.write("# :balloon: Rumi is here!")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Do not Select a demo above.")
 
     st.markdown(
         """
